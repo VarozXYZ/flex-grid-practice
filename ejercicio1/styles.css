@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    border: 2px solid #ccc;
+    background-color: beige;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
